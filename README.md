@@ -3,10 +3,11 @@ Graduation Project of Gachon University Software Department
 
 [Team members]
 
-- 김동준 ()
+- 김동준 (rlaehdwns99@gachon.ac.kr)
 - 김현종 (guswhd5738@gachon.ac.kr)
-- 안해빈 ()
+- 안해빈 (gnh06280@gachon.ac.kr)
 - 이원재 (dnjswo0213@gachon.ac.kr)
+
 ## Introduction
 It is a program that finds and recommends people who have skilled desired by companies.
 1. Select the field that the company wants (ex. backend, frontend)
