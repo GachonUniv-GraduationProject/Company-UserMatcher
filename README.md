@@ -16,3 +16,6 @@ It is a program that finds and recommends people who have skilled desired by com
 4. Select other skills that companies want (ex. Docker, Azure)
 
 <img width="465" alt="image" src="https://github.com/GachonUniv-GraduationProject/Company-UserMatcher/assets/107402065/860dfa5e-3511-4427-a2ae-a448e49e6f2e">
+
+## Structure
+<img alt="structure" src="./matching_structure.png">
